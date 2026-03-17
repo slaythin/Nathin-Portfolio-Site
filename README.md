@@ -1,12 +1,14 @@
 # Nathin-Portfolio-Site
-Red&amp;Yellow Assessment 2 - Portfolio HTML
+Red&Yellow Assessment 3 - Portfolio CSS
 
-The first section is the header which contains the logo, name and the nav bar which consists of the brands, skills and qualifications that I have worked on.
+The purpose of the visual styling in this website is to improve the appearance of the portfolio and make it more professional, clear and easy to read.
 
-The next area is the main section that starts with the header which is "creative portfolio" to give context.
-Next is the subheading that further explains the purpose of the porfolio website to potential viewers.
+The colour styling uses a dark theme with light text to create strong contrast and improve readability. Different shades of grey, black and white were used to keep the design consistent and visually appealing. This colour scheme supports the overall portfolio theme because it gives the website a modern and creative look and gives an indication of my straight-forward (cynical) personality - after all, that is what a portfolio is supposed to do as an alternative task.
 
-This section also includes the projects that are to be displayed with labels of the headings themselves and the project descriptions to give context to the projects themselves that relate to the nav bar sections that can help to filter the type of work to perpective clients.
+The typography styling was used to make the headings and body text clear and easy to follow. The headings are larger and bolder so that each section stands out clearly. The body text is smaller and simpler so that it is easy to read. Spacing between headings, paragraphs and sections was also added to improve the overall flow of the page.
 
-The last section is the footer where there is a list of skills and offerings as a designer with a business post-grad background.
-Below that list (still in the footer) is the contact information that consissts of my phone number and email address.
+The layout styling was created using CSS properties such as margin, padding and display. These were used to organise the content neatly and to create space between sections. Grid layout was also used in the projects section so that the project cards are displayed in a clean and structured way.
+
+These styling choices support the overall theme of the portfolio by making it look modern, organised and professional. The design helps to present the work clearly while also reflecting a creative identity.
+
+The stylesheet was validated using the W3C CSS Validation Service. Any errors and warnings found in the CSS were corrected so that the stylesheet follows proper CSS standards.
